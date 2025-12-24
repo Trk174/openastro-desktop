@@ -1,1 +1,0 @@
-# openastro-desktop
